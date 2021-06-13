@@ -20,6 +20,8 @@ limitations under the License.
 
 # Round
 
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+
 > Round a numeric value to the nearest integer.
 
 <section class="installation">
@@ -145,6 +147,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-special-round.svg
+[npm-url]: https://npmjs.org/package/@stdlib/math-base-special-round
+
+[test-image]: https://github.com/stdlib-js/math-base-special-round/actions/workflows/test.yml/badge.svg
+[test-url]: https://github.com/stdlib-js/math-base-special-round/actions/workflows/test.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-round/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-round?branch=main
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/math-base-special-round
+[dependencies-url]: https://david-dm.org/stdlib-js/math-base-special-round/main
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
