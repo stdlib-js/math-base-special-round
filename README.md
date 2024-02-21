@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
+import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@v0.2.1-deno/mod.js';
 ```
 
 #### round( x )
@@ -106,7 +106,7 @@ v = round( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
+import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@v0.2.1-deno/mod.js';
 
 var x;
 var i;
