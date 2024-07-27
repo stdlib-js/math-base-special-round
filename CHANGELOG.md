@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2024-07-08)
+## 0.3.0 (2024-07-27)
 
 <section class="features">
 
@@ -32,8 +32,8 @@
 
 <details>
 
--   [`62e703a`](https://github.com/stdlib-js/stdlib/commit/62e703a5eb7df95a40b3592366da89c5ff42a1b1) - **docs:** add missing `@private` in `math/base/special/round/lib/native.js` [(##2536)](#2536) _(by Gunj Joshi)_
--   [`133dd8b`](https://github.com/stdlib-js/stdlib/commit/133dd8bdce3709d5aeda84906b79882f86d9989d) - **chore:** update package meta data [(##2251)](#2251) _(by stdlib-bot)_
+-   [`62e703a`](https://github.com/stdlib-js/stdlib/commit/62e703a5eb7df95a40b3592366da89c5ff42a1b1) - **docs:** add missing `@private` in `math/base/special/round/lib/native.js` [(#2536)](https://github.com/stdlib-js/stdlib/pull/2536) _(by Gunj Joshi)_
+-   [`133dd8b`](https://github.com/stdlib-js/stdlib/commit/133dd8bdce3709d5aeda84906b79882f86d9989d) - **chore:** update package meta data [(#2251)](https://github.com/stdlib-js/stdlib/pull/2251) _(by stdlib-bot)_
 -   [`c37109b`](https://github.com/stdlib-js/stdlib/commit/c37109b3c683878107df935c393a9301cb38d5a7) - **test:** fix missing argument _(by Athan Reines)_
 -   [`947e77f`](https://github.com/stdlib-js/stdlib/commit/947e77f645e36d13cacfd68b97c6311a5524195a) - **fix:** handle large numbers correctly and revert to Math.round for JS _(by Philipp Burckhardt)_
 -   [`0227bf0`](https://github.com/stdlib-js/stdlib/commit/0227bf0cbf95d5168bfa8efaf9f0286869f753fe) - **feat:** add C implementation for `math/base/special/round` _(by Pranav Goswami, Philipp Burckhardt)_
@@ -67,6 +67,60 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 ## 0.2.1 (2024-02-21)
 
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-14)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`215dfe6`](https://github.com/stdlib-js/stdlib/commit/215dfe690670731f044d09c92832081bc99372cc) - **docs:** update links _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
+## 0.1.1 (2023-10-03)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-09-22)
+
 <section class="features">
 
 ### Features
@@ -96,7 +150,6 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
--   [`215dfe6`](https://github.com/stdlib-js/stdlib/commit/215dfe690670731f044d09c92832081bc99372cc) - **docs:** update links _(by Athan Reines)_
 -   [`58832ee`](https://github.com/stdlib-js/stdlib/commit/58832eef6d93e6519622148242600eae93dca4d9) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
 
 </details>
@@ -109,14 +162,83 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Athan Reines
 -   Philipp Burckhardt
 
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.7">
+
+## 0.0.7 (2022-02-16)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.6">
+
+## 0.0.6 (2021-08-22)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.5">
+
+## 0.0.5 (2021-07-06)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.4">
+
+## 0.0.4 (2021-06-27)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.3">
+
+## 0.0.3 (2021-06-16)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2021-06-15)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.1">
+
+## 0.0.1 (2021-06-14)
+
+No changes reported for this release.
 
 </section>
 
